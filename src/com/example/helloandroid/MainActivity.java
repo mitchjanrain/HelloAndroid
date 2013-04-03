@@ -10,7 +10,7 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        DEADBEEF; // DEADBEEF is bad code. Comment out to fix this.
+        // DEADBEEF; // DEADBEEF is bad code. Comment out to fix this.
     }
 
     @Override
